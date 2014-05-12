@@ -7,7 +7,7 @@ languages and frameworks.
 
 ## Implementations
 
-The currently implemented version are:
+The currently implemented versions are:
 
 - [Rails][rails-short-url]: A standard rails project.
 
