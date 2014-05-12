@@ -9,4 +9,8 @@ languages and frameworks.
 
 The currently implemented version are:
 
+- [Rails][rails-short-url]: A standard rails project.
+
 ## Specification
+
+[rails-short-url]: http://github.com/amcoder/rails-short-url
